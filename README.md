@@ -58,7 +58,7 @@ File.write('credentials.yml.enc', rails_compatible_encrypted_data)
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/EugZol/credentials.
+Bug reports and pull requests are welcome on GitHub at https://github.com/EugZol/encrypted_credentials.
 
 ## License
 

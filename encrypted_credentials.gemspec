@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Eugene Zolotarev", "Hodlex Ltd."]
   spec.email         = ["eugzol@gmail.com", "cto@hodlhodl.com"]
 
-  spec.summary       = "Light weight credentials encoder/decoder, compatible with Rails Credentials"
-  spec.homepage      = "https://github.com/EugZol/enrypted_credentials"
+  spec.summary       = "Lightweight credentials encoder/decoder, compatible with Rails credentials"
+  spec.homepage      = "https://github.com/EugZol/encrypted_credentials"
   spec.license       = "MIT"
   spec.required_ruby_version = ">= 2.4.0"
 
